@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+"""
+    Function that gets a list of floats and return its sum
+"""
+
+
+def sum_list(input_list: list[float]) -> float:
+    """
+    Function
+
+    Args:
+        input_list (list[float]): list of floats
+
+    Return:
+        float: sum of items
+    """
+    return sum(input_list) 
