@@ -5,4 +5,14 @@
 
 
 def add(a: float, b: float) -> float:
+    """
+    Function
+
+    Args:
+        a (float): a number
+        b (float): b number
+
+    Return:
+        float: a+b
+    """
     return a+b
