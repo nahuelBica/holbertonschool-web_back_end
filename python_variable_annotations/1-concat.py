@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-    Function that concat two strings str1 and str2 and return a concatenated string
+    Function that concat two strings str1 and str2 and return a concat string
 """
 
 
