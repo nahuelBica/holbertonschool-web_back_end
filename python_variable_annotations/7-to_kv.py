@@ -5,6 +5,6 @@ Convert key and value into a tuple
 from typing import Tuple, Union
 
 
-def to_kv(key: str, value: Union[int, float]) -> Tuple[str, float]:
+def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
     """Convert  key and value into a tuple."""
-    return (key, float(value**2))
+    return (k, float(v**2))
