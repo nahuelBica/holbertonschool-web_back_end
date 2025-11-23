@@ -12,6 +12,6 @@ def to_str(n: float) -> str:
         n (float): n number
 
     Return:
-        str: n string 
+        str: n string
     """
     return str(n)
